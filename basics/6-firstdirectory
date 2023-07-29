@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hola a todos
+./6-firstdirectory
